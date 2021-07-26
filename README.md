@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seungnyung's%20GitHub&fontSize=90&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Seungnyung's%20GitHub&fontSize=40&animation=scaleIn)
+<img src="https://img.shields.io/badge/텍스트-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
 <!--
 **leehi0110/leehi0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
