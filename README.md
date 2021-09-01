@@ -1,7 +1,5 @@
 <div align='center'>
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=65ffa2&height=300&section=header&text=Seungnyung's%20GitHub&fontSize=40&animation=scaleIn)
-
 ## Technology Stack📚
 
   <p></p>
