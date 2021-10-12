@@ -19,7 +19,7 @@
   <br/>
   <br/>
   
-  ## MyStats🤓
+  ## MyStatus🤓
 
 ![Leehi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehi0110&show_icons=true)
 
